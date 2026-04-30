@@ -51,7 +51,7 @@ To be reached when calling function implemented:
 * `sea_level_predictor.draw_plot()`
 
 <p float="left">
-  <img src="/xxx.png" width="250"/>
+  <img src="/scatter.png" width="250"/>
 </p>
 
 ## Project Structure
