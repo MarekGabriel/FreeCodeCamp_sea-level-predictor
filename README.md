@@ -57,7 +57,7 @@ To be reached when calling function implemented:
 ## Project Structure
 
 * sea_level_predictor.py — main function: `draw_plot()` implementation
-* main.py — An entrypoint file to be used in development. It imports main functions implemented and runs unit tests automatically.
+* main.py — An entrypoint file to be used in development. It imports main function implemented and runs unit tests automatically.
 * test_module.py — unit tests provided by freeCodeCamp
 
 ## License
